@@ -1,0 +1,13 @@
+.nav-list {
+   display: flex;
+   list-style-type: none;
+   gap: 25px;
+   justify-content: flex-end;
+}
+
+.nav-link {
+   text-decoration: none;
+   text-transform: uppercase;
+   color: black;
+   font-weight: 600;
+}
